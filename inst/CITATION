@@ -1,0 +1,17 @@
+citHeader(paste("Please cite the R-package 'bfp' in publications",
+                "as follows when you use it:")) 	  
+
+citEntry(entry="article",
+	 title="Bayesian Fractional Polynomials",
+	 author=personList(person(first="Daniel", last="Sabanes Bove", 
+	 			  email="daniel.sabanesbove@ifspm.uzh.ch"),
+	 	           person(first="Leonhard", last="Held")), 
+ 	 journal="Statistics and Computing",
+	 year=2010,
+         note="epub ahead of print",
+	 url="http://dx.doi.org/10.1007/s11222-010-9170-7",
+	 textVersion=paste("Sabanes Bove, D. and Held, L. (2010):",
+	                   "Bayesian Fractional Polynomials.",
+			   "Statistics and Computing, epub ahead of print.",
+	 	    	   "URL: http://dx.doi.org/10.1007/s11222-010-9170-7")) 
+
