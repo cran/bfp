@@ -1,8 +1,40 @@
+2012-05-30  Daniel Sabanés Bové  <daniel.sabanesbove@ifspm.uzh.ch>
+
+	* Minor changes in hope to pass R CMD check on R-Forge.
+
+2012-04-25  Daniel Sabanés Bové  <daniel.sabanesbove@ifspm.uzh.ch>
+
+	* R/plotCurveEstimate.BmaSamples.R: add "median" as output
+
+	* R/BmaSamples.R: add option to include zero samples
+
+2012-03-01  Daniel Sabanés Bové  <daniel.sabanesbove@ifspm.uzh.ch>
+
+	* src/various: Use Rcpp for creation of results lists, in order to
+	avoid strange memory-suspicious errors.
+
+2012-02-22  Daniel Sabanés Bové  <daniel.sabanesbove@ifspm.uzh.ch>
+
+	* src/hyperg.cpp: Corrected the computation of the Laplace
+	approximation of the logPsi function.
+
+2011-10-07  Daniel Sabanés Bové  <daniel.sabanesbove@ifspm.uzh.ch>
+
+	* inst/CITATION: The paper is now published in Statistics and
+	Computing, so I included the vol/number/page info.
+
+2011-01-26  Daniel Sabanés Bové  <daniel.sabanesbove@ifspm.uzh.ch>
+
+	* R/plotCurveEstimate: Add options "partialResids" and "hpd" to
+	the two plot functions, to remove partial residuals and to have
+	equi-tailed instead of highest posterior density intervals /
+	bands, respectively.
+
 2011-01-18  Daniel Sabanés Bové  <daniel.sabanesbove@ifspm.uzh.ch>
 
 	* src/bayesMfp.cpp: Changed the logMargLikConst. This is rather
 	arbitrary if only BFP models are compared, but now it matches the
-	definition in the hypergsplines package. 
+	definition in the hypergsplines package.
 
 2011-01-14  Daniel Sabanés Bové  <daniel.sabanesbove@ifspm.uzh.ch>
 
