@@ -1,5 +1,5 @@
-b3faa55b25f95eb1b994633fb09ad852 *ChangeLog
-7ea2692c2f67a43ad7c4bd0c01cfab0f *DESCRIPTION
+a8497b750bf047ae215a05b7a2f71bdc *ChangeLog
+6733d5e494f731421ab17bc9132b3f93 *DESCRIPTION
 82476a74f3af5b02ae59dc6bada2cca5 *NAMESPACE
 66d029ec50e20569056dd59e7dece5c1 *R/BayesMfp.R
 1fed2cad3b0faab4321bd318b396f21c *R/BayesMfpMethods.R
@@ -29,11 +29,11 @@ d38a59fb51588da6c1f810db9d722066 *R/scrHpd.R
 d3cf0c9abe0bce3586265f7af76d575e *R/summary.BayesMfp.R
 b2c58f9643ae6527c311f91a80b04b5d *R/summary.BmaSamples.R
 b402746aa9398939d78e381a00113770 *R/transformMfp.R
-15e3857a3dffc04d02298de2401c257f *data/ozone.RData
+1600d8e7ef2633c0d8329f9ed314f31f *data/ozone.RData
 9df4179c9e33189a47e3a99c2331752d *demo/00Index
 99db10ee57747dc7b3a611e78b57a76e *demo/ozone.R
-5aaab0656c910503c60ef8bab8e5254b *examples/simulation.R
 f40cbd6a4cc05065e6edda5319cc0737 *inst/CITATION
+5aaab0656c910503c60ef8bab8e5254b *inst/examples/simulation.R
 07d67fbfc5f831cbe6ae642e2b1219fe *man/BayesMfp.Rd
 6bdea1c066d62984cc07e7406555152a *man/BayesMfpMethods.Rd
 62b8f46748bef00a0bee2cf2975cb798 *man/BmaSamples.Rd
@@ -41,7 +41,7 @@ f7630090c43552afa8b7236c294d6c4f *man/BmaSamplesMethods.Rd
 c6720c7cc13d20e4f87ee7bf6b5c2cf4 *man/Extract.BayesMfp.Rd
 b1986ea5ec117bef7e951032767de239 *man/as.data.frame.BayesMfp.Rd
 9055e54ce9f932999cf07f68e647a2a8 *man/bmaPredict.Rd
-129ec0c292fede5af641d49119e08a5d *man/constructNewdataMatrix.Rd
+996a02044d676c4b3ec635fac79c977e *man/constructNewdataMatrix.Rd
 acdee64767add8a66865d38bb9c78977 *man/empiricalHpd.Rd
 06858317760904bbb126f1cac07efe4a *man/findModel.Rd
 5155d54880b88f1149232a09c13917ba *man/fpScale.Rd
@@ -75,7 +75,7 @@ c2493a68c049b073346e3dbb5f7caff1 *src/const.c
 1a4df4c462be828f3c486f051fe0d11d *src/conversions.cpp
 a7c4e5a5e7b278449a5ba3024473b6e9 *src/conversions.h
 3d91c4ad4876cc439345a84180c8ada3 *src/dataStructure.cpp
-cfea58e333a5903b145866e7fab9b72d *src/dataStructure.h
+a49ce907cc733dcf19be9d7ec4098ffa *src/dataStructure.h
 af42024bd23d38cf632242675f2f914d *src/hyp2f1.c
 3f4f67ddd9e2269b9721b622085390c3 *src/hyperg.cpp
 d6352b434e4c8550e8da31238e7608c3 *src/hyperg.h
