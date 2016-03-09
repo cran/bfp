@@ -1,6 +1,6 @@
-a8497b750bf047ae215a05b7a2f71bdc *ChangeLog
-6733d5e494f731421ab17bc9132b3f93 *DESCRIPTION
-82476a74f3af5b02ae59dc6bada2cca5 *NAMESPACE
+51011e29ad7a8f9abcc19448c0d55b51 *ChangeLog
+6cff2a17f71ae01f1f6f8210c040ada2 *DESCRIPTION
+53a1269f9eac0a6bc6df92139ef0e54b *NAMESPACE
 66d029ec50e20569056dd59e7dece5c1 *R/BayesMfp.R
 1fed2cad3b0faab4321bd318b396f21c *R/BayesMfpMethods.R
 b782116eaccff4496b3ee6323bd56e28 *R/BmaSamples.R
@@ -20,7 +20,7 @@ ad1c9fa49276e16e8b4a369f5aa3df64 *R/inclusionProbs.R
 d7fcbbd5e03af210b027e7dba70c0764 *R/invGamma.R
 ea49a09dbfa36fe26bab73aec0b3b416 *R/plotCurveEstimate.BayesMfp.R
 5b9b0e280f2efcf5a2d552be20da1903 *R/plotCurveEstimate.BmaSamples.R
-1a8a18f2cc4b751f4cf853c693734320 *R/plotCurveEstimate.R
+8ed46af9e38403408607a0d4dca812f9 *R/plotCurveEstimate.R
 8870f82ac7baf17ad1a95ee4dc48d2ee *R/posteriors.R
 1159704cfa6c8b7a4f642bdef3d10f38 *R/rmvt.R
 f508d329fbe07baaa29155bb12e14ce0 *R/rshrinkage.R
@@ -29,7 +29,7 @@ d38a59fb51588da6c1f810db9d722066 *R/scrHpd.R
 d3cf0c9abe0bce3586265f7af76d575e *R/summary.BayesMfp.R
 b2c58f9643ae6527c311f91a80b04b5d *R/summary.BmaSamples.R
 b402746aa9398939d78e381a00113770 *R/transformMfp.R
-1600d8e7ef2633c0d8329f9ed314f31f *data/ozone.RData
+f724fec02c92a8ff9ace10cebbe7213e *data/ozone.RData
 9df4179c9e33189a47e3a99c2331752d *demo/00Index
 99db10ee57747dc7b3a611e78b57a76e *demo/ozone.R
 f40cbd6a4cc05065e6edda5319cc0737 *inst/CITATION
@@ -74,12 +74,12 @@ ae674b12d3fdb6c5c892fac2de72f85d *src/Makevars
 c2493a68c049b073346e3dbb5f7caff1 *src/const.c
 1a4df4c462be828f3c486f051fe0d11d *src/conversions.cpp
 a7c4e5a5e7b278449a5ba3024473b6e9 *src/conversions.h
-3d91c4ad4876cc439345a84180c8ada3 *src/dataStructure.cpp
+235e317e0e6af1e172cb5a758d660b47 *src/dataStructure.cpp
 a49ce907cc733dcf19be9d7ec4098ffa *src/dataStructure.h
-af42024bd23d38cf632242675f2f914d *src/hyp2f1.c
-3f4f67ddd9e2269b9721b622085390c3 *src/hyperg.cpp
-d6352b434e4c8550e8da31238e7608c3 *src/hyperg.h
-fec39a49fde5a4d6af635dc4928ec338 *src/mconf.h
+ba84b4044b647a269ec8aec90f029518 *src/hyp2f1.c
+353407737ad342b1453c001a5b820354 *src/hyperg.cpp
+f08af594fc7951265b91e00a06df41e2 *src/hyperg.h
+b0f9fed5126c22cc934d51f7fc98572a *src/mconf.h
 e2603eb2118076e482c920cdbc68781f *src/mtherr.c
 b714d0e39fa7495517211648e6dc13fd *src/newmat/Makefile
 1feab2cfad34eed78acb4a47cd7f232a *src/newmat/bandmat.cpp
