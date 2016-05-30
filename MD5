@@ -1,5 +1,5 @@
-51011e29ad7a8f9abcc19448c0d55b51 *ChangeLog
-6cff2a17f71ae01f1f6f8210c040ada2 *DESCRIPTION
+5c8844270121450cd8a3e3e6e7d8fdce *ChangeLog
+4d4077c7379e0f3fd0eff5c657f2bb7b *DESCRIPTION
 53a1269f9eac0a6bc6df92139ef0e54b *NAMESPACE
 66d029ec50e20569056dd59e7dece5c1 *R/BayesMfp.R
 1fed2cad3b0faab4321bd318b396f21c *R/BayesMfpMethods.R
@@ -29,10 +29,10 @@ d38a59fb51588da6c1f810db9d722066 *R/scrHpd.R
 d3cf0c9abe0bce3586265f7af76d575e *R/summary.BayesMfp.R
 b2c58f9643ae6527c311f91a80b04b5d *R/summary.BmaSamples.R
 b402746aa9398939d78e381a00113770 *R/transformMfp.R
-f724fec02c92a8ff9ace10cebbe7213e *data/ozone.RData
+de5b01a01cbafbb2367fe48a83868de2 *data/ozone.RData
 9df4179c9e33189a47e3a99c2331752d *demo/00Index
 99db10ee57747dc7b3a611e78b57a76e *demo/ozone.R
-f40cbd6a4cc05065e6edda5319cc0737 *inst/CITATION
+52b5355d43e7d431929d3b8c0228892b *inst/CITATION
 5aaab0656c910503c60ef8bab8e5254b *inst/examples/simulation.R
 07d67fbfc5f831cbe6ae642e2b1219fe *man/BayesMfp.Rd
 6bdea1c066d62984cc07e7406555152a *man/BayesMfpMethods.Rd
