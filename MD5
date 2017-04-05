@@ -1,7 +1,7 @@
-5c8844270121450cd8a3e3e6e7d8fdce *ChangeLog
-4d4077c7379e0f3fd0eff5c657f2bb7b *DESCRIPTION
-53a1269f9eac0a6bc6df92139ef0e54b *NAMESPACE
-66d029ec50e20569056dd59e7dece5c1 *R/BayesMfp.R
+7a0b58e66a81c287e53a252f9274d593 *ChangeLog
+d56d649bfd66e4345d995d68d58b51d8 *DESCRIPTION
+eb93f50ab6245a8732dfbefd74a98149 *NAMESPACE
+3a521832a87f7f20b8cda3b426c73cb4 *R/BayesMfp.R
 1fed2cad3b0faab4321bd318b396f21c *R/BayesMfpMethods.R
 b782116eaccff4496b3ee6323bd56e28 *R/BmaSamples.R
 113ea689bf2abbf4faed05ed0b96880e *R/BmaSamplesMethods.R
@@ -12,9 +12,9 @@ b2ddc8dc4ce58bb55133112fc6bdc7b2 *R/constructNewdataMatrix.R
 49c8a5e1c3287ec31407dda1de0d9251 *R/fpScale.R
 5a973d326b4285f52a8270e39c4b2a05 *R/getDesignMatrix.R
 d2849c5a358c974a99d1d5cb11430b41 *R/getFpTransforms.R
-7ec4b0ac140907b547b0b425a431adb1 *R/getLogMargLik.R
+ff830adc424c710d73467b45a7eefa8f *R/getLogMargLik.R
 638ea33ed773b9b2a61b75acf3b9b774 *R/getLogPrior.R
-163c9699c41cddfc4eb4b3b1a58a95ff *R/getPostExpectedgAndShrinkage.R
+3032f9d38307505288de37bfb3623c9d *R/getPostExpectedgAndShrinkage.R
 7a5d2742990d5832b435413cc7f57456 *R/getPosteriorParms.R
 ad1c9fa49276e16e8b4a369f5aa3df64 *R/inclusionProbs.R
 d7fcbbd5e03af210b027e7dba70c0764 *R/invGamma.R
@@ -29,7 +29,8 @@ d38a59fb51588da6c1f810db9d722066 *R/scrHpd.R
 d3cf0c9abe0bce3586265f7af76d575e *R/summary.BayesMfp.R
 b2c58f9643ae6527c311f91a80b04b5d *R/summary.BmaSamples.R
 b402746aa9398939d78e381a00113770 *R/transformMfp.R
-de5b01a01cbafbb2367fe48a83868de2 *data/ozone.RData
+2d3ad2f046563c5c3776128455bf5d82 *build/partial.rdb
+832c8b7ad0d664e05f77b971608c1bf6 *data/ozone.RData
 9df4179c9e33189a47e3a99c2331752d *demo/00Index
 99db10ee57747dc7b3a611e78b57a76e *demo/ozone.R
 52b5355d43e7d431929d3b8c0228892b *inst/CITATION
@@ -60,7 +61,7 @@ ee08595f9cda4a9bb8806de0e512409d *man/predict.BayesMfp.Rd
 b8aeb3d2dda2a118c2a74029eedeb248 *man/predict.BmaSamples.Rd
 311efc420ab5de1c10622e12f9e61b76 *man/rmvt.Rd
 cf14454813ec5960aca309f5685c1d8f *man/rshrinkage.Rd
-5375828c5d7d67847e8755acdcfc98fb *man/scrBesag.Rd
+f80109b7ead8ec9015e59219342de0cd *man/scrBesag.Rd
 eed2cc06e0af75d36fa9f870b5ad73cb *man/scrHpd.Rd
 93d20c271fc53ca02dc2ec13bc2c66a9 *man/summary.BayesMfp.Rd
 334df8912061cd6b36c460753d817039 *man/summary.BmaSamples.Rd
@@ -68,7 +69,8 @@ eed2cc06e0af75d36fa9f870b5ad73cb *man/scrHpd.Rd
 ae674b12d3fdb6c5c892fac2de72f85d *src/Makevars
 8767e779f3ef2b17c6c2ce838bcc87f7 *src/RnewMat.cpp
 8f9939a27299c35bd5979ebf8bf7cb28 *src/RnewMat.h
-2ef1a76b2262a3ccbc277346a907cf82 *src/bayesMfp.cpp
+67f94747759de125d5d54d3fa0066052 *src/bayesMfp.cpp
+43e8979185ce2385c0bf24e7bae8d56f *src/bfp-win.def
 1bab5dfa46932172c58215a9d28bc6fa *src/combinatorics.cpp
 269a75559814eede5c561373887cb573 *src/combinatorics.h
 c2493a68c049b073346e3dbb5f7caff1 *src/const.c
@@ -99,7 +101,7 @@ fc837140049fb503b9bfdc724fafa535 *src/newmat/newfft.cpp
 1f298900780a962c2835cd8f1bfe27b3 *src/newmat/newmat3.cpp
 df0097e4bf39b4d996ea74f6126cfda5 *src/newmat/newmat4.cpp
 decc5c8103409e74b222c32a2089cb4a *src/newmat/newmat5.cpp
-a9d5e9de0a9a091c2289e1d5b0051353 *src/newmat/newmat6.cpp
+34b0dfa5a3e4337666d58bb727cbc6ca *src/newmat/newmat6.cpp
 f4c261a0b7b96bc836d495a9ea1e47df *src/newmat/newmat7.cpp
 f5cf174b7bb71b562124725edb23fb03 *src/newmat/newmat8.cpp
 ced1ed074ddf2eac628e6547bd63a0f2 *src/newmat/newmat9.cpp
