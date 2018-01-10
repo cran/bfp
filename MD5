@@ -1,5 +1,5 @@
-7a0b58e66a81c287e53a252f9274d593 *ChangeLog
-d56d649bfd66e4345d995d68d58b51d8 *DESCRIPTION
+cdd1ab26b2aef8f4ddff55a8835b03b9 *ChangeLog
+b3f57db5ba1da2af2280b6f1e5e363b8 *DESCRIPTION
 eb93f50ab6245a8732dfbefd74a98149 *NAMESPACE
 3a521832a87f7f20b8cda3b426c73cb4 *R/BayesMfp.R
 1fed2cad3b0faab4321bd318b396f21c *R/BayesMfpMethods.R
@@ -29,8 +29,8 @@ d38a59fb51588da6c1f810db9d722066 *R/scrHpd.R
 d3cf0c9abe0bce3586265f7af76d575e *R/summary.BayesMfp.R
 b2c58f9643ae6527c311f91a80b04b5d *R/summary.BmaSamples.R
 b402746aa9398939d78e381a00113770 *R/transformMfp.R
-2d3ad2f046563c5c3776128455bf5d82 *build/partial.rdb
-832c8b7ad0d664e05f77b971608c1bf6 *data/ozone.RData
+3de3f0e9a905963a0ed2601d8034f7a7 *build/partial.rdb
+d94dd15bb0038b2e9665a495707afa92 *data/ozone.RData
 9df4179c9e33189a47e3a99c2331752d *demo/00Index
 99db10ee57747dc7b3a611e78b57a76e *demo/ozone.R
 52b5355d43e7d431929d3b8c0228892b *inst/CITATION
@@ -66,7 +66,7 @@ eed2cc06e0af75d36fa9f870b5ad73cb *man/scrHpd.Rd
 93d20c271fc53ca02dc2ec13bc2c66a9 *man/summary.BayesMfp.Rd
 334df8912061cd6b36c460753d817039 *man/summary.BmaSamples.Rd
 7544ddde2b82ce1d8083fe7ffa1de8e4 *man/transformMfp.Rd
-ae674b12d3fdb6c5c892fac2de72f85d *src/Makevars
+b328ea8c25163392723d8ba36d4857e3 *src/Makevars
 8767e779f3ef2b17c6c2ce838bcc87f7 *src/RnewMat.cpp
 8f9939a27299c35bd5979ebf8bf7cb28 *src/RnewMat.h
 67f94747759de125d5d54d3fa0066052 *src/bayesMfp.cpp
