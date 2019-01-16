@@ -1,5 +1,5 @@
 Package: bfp
-Version: 0.0-39
+Version: 0.0-39.1
 Date: 2018-05-14
 Title: Bayesian Fractional Polynomials
 Authors@R: c(person("Daniel", "Sabanes Bove", 
@@ -29,6 +29,6 @@ Repository: CRAN
 Repository/R-Forge/Project: bfp
 Repository/R-Forge/Revision: 150
 Repository/R-Forge/DateTimeStamp: 2018-05-14 10:35:40
-Date/Publication: 2018-05-14 14:37:07 UTC
+Date/Publication: 2019-01-16 08:01:57 UTC
 NeedsCompilation: yes
-Packaged: 2018-05-14 10:56:44 UTC; rforge
+Packaged: 2019-01-15 11:02:08 UTC; ripley
