@@ -1,5 +1,5 @@
-a3c2b2e658f5d0b0e12418ac293a986c *ChangeLog
-7f4a163a655bb9306888f0aa53a554c7 *DESCRIPTION
+af4468a576d8099be22778652c0c45f2 *ChangeLog
+c508a1199d15f62a18336b9c8f0b2191 *DESCRIPTION
 eb93f50ab6245a8732dfbefd74a98149 *NAMESPACE
 3a521832a87f7f20b8cda3b426c73cb4 *R/BayesMfp.R
 1fed2cad3b0faab4321bd318b396f21c *R/BayesMfpMethods.R
@@ -29,8 +29,8 @@ d38a59fb51588da6c1f810db9d722066 *R/scrHpd.R
 d3cf0c9abe0bce3586265f7af76d575e *R/summary.BayesMfp.R
 b2c58f9643ae6527c311f91a80b04b5d *R/summary.BmaSamples.R
 b402746aa9398939d78e381a00113770 *R/transformMfp.R
-f34d04c8dc2ec3f228e8ed84d29b1f3c *build/partial.rdb
-062a545e5622c7c276851b492f0721c2 *data/ozone.RData
+4405a2220cb1b4cb1a44de44c539b527 *build/partial.rdb
+b924dbf70627e5760ec857bb58436445 *data/ozone.RData
 9df4179c9e33189a47e3a99c2331752d *demo/00Index
 99db10ee57747dc7b3a611e78b57a76e *demo/ozone.R
 52b5355d43e7d431929d3b8c0228892b *inst/CITATION
@@ -73,15 +73,14 @@ eed2cc06e0af75d36fa9f870b5ad73cb *man/scrHpd.Rd
 43e8979185ce2385c0bf24e7bae8d56f *src/bfp-win.def
 1bab5dfa46932172c58215a9d28bc6fa *src/combinatorics.cpp
 269a75559814eede5c561373887cb573 *src/combinatorics.h
-c2493a68c049b073346e3dbb5f7caff1 *src/const.c
 1a4df4c462be828f3c486f051fe0d11d *src/conversions.cpp
 a7c4e5a5e7b278449a5ba3024473b6e9 *src/conversions.h
 235e317e0e6af1e172cb5a758d660b47 *src/dataStructure.cpp
 a49ce907cc733dcf19be9d7ec4098ffa *src/dataStructure.h
-ba84b4044b647a269ec8aec90f029518 *src/hyp2f1.c
+dff36fed376caa78becef1b2b3364617 *src/hyp2f1.c
 353407737ad342b1453c001a5b820354 *src/hyperg.cpp
 f08af594fc7951265b91e00a06df41e2 *src/hyperg.h
-b0f9fed5126c22cc934d51f7fc98572a *src/mconf.h
+a05581bc895b5f7c816d6abeff5815f2 *src/mconf.h
 e2603eb2118076e482c920cdbc68781f *src/mtherr.c
 b714d0e39fa7495517211648e6dc13fd *src/newmat/Makefile
 1feab2cfad34eed78acb4a47cd7f232a *src/newmat/bandmat.cpp
@@ -120,7 +119,7 @@ a4f025396e81debdc0a00d34e9d4c151 *src/newmat/sort.cpp
 dbd1dee0cdbeb0d23693cc49eaf49f1b *src/newmat/submat.cpp
 1a5780de37d51a7e23b461c2a54a50e2 *src/newmat/svd.cpp
 690ef76290fb4c49d9317ecd57953a49 *src/rcppExport.h
-4b1b93c5aa1098b45a78819fb94cbc5e *src/scripts/SOURCES.mkf
+8dd34df27b5b4ec0985cd6c6d21bc723 *src/scripts/SOURCES.mkf
 a3bef9b6e6831aca235fc691cf76e932 *src/sum.h
 be85812ea7bcc6211de296ab48ac2b23 *src/types.h
 74af227b3f853ce4f13028dbc10288de *tests/dep.R
