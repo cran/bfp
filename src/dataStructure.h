@@ -6,9 +6,9 @@
 #include <vector>
 #include "RnewMat.h"
 #include <iterator>
-#include <types.h>
+#include "mytypes.h"
 
-#include <rcppExport.h>
+#include "rcppExport.h"
 
 
 struct safeSum

@@ -1,6 +1,6 @@
 Package: bfp
-Version: 0.0-41
-Date: 2020-06-20
+Version: 0.0-42
+Date: 2021-02-15
 Title: Bayesian Fractional Polynomials
 Authors@R: c(person("Daniel", "Sabanes Bove", 
              email="daniel.sabanesbove@gmx.net", role = c("aut", "cre")),
@@ -27,8 +27,8 @@ Author: Daniel Sabanes Bove [aut, cre],
 Maintainer: Daniel Sabanes Bove <daniel.sabanesbove@gmx.net>
 Repository: CRAN
 Repository/R-Forge/Project: bfp
-Repository/R-Forge/Revision: 159
-Repository/R-Forge/DateTimeStamp: 2020-06-20 13:31:54
-Date/Publication: 2020-06-21 13:40:05 UTC
+Repository/R-Forge/Revision: 161
+Repository/R-Forge/DateTimeStamp: 2021-02-15 09:17:01
+Date/Publication: 2021-02-15 15:40:07 UTC
 NeedsCompilation: yes
-Packaged: 2020-06-20 13:49:41 UTC; rforge
+Packaged: 2021-02-15 09:30:42 UTC; rforge
