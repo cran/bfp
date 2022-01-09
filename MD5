@@ -1,5 +1,5 @@
-af4468a576d8099be22778652c0c45f2 *ChangeLog
-30aec4e0a49573673a8c313fef6bb960 *DESCRIPTION
+75694d550a0768abd471c04fb790c60f *ChangeLog
+dcc583140c8e7e2d9e7afc5d8678a284 *DESCRIPTION
 eb93f50ab6245a8732dfbefd74a98149 *NAMESPACE
 3a521832a87f7f20b8cda3b426c73cb4 *R/BayesMfp.R
 1fed2cad3b0faab4321bd318b396f21c *R/BayesMfpMethods.R
@@ -9,7 +9,7 @@ b782116eaccff4496b3ee6323bd56e28 *R/BmaSamples.R
 b2ddc8dc4ce58bb55133112fc6bdc7b2 *R/constructNewdataMatrix.R
 881f3ded6c9db8df16a7e6e3374fa80d *R/empiricalHpd.R
 90bf2a225a7b6a4e360272aa599f8b6f *R/findModel.R
-49c8a5e1c3287ec31407dda1de0d9251 *R/fpScale.R
+8eed35db92e9a2878bd68e7749f3fb41 *R/fpScale.R
 5a973d326b4285f52a8270e39c4b2a05 *R/getDesignMatrix.R
 d2849c5a358c974a99d1d5cb11430b41 *R/getFpTransforms.R
 ff830adc424c710d73467b45a7eefa8f *R/getLogMargLik.R
@@ -29,10 +29,9 @@ d38a59fb51588da6c1f810db9d722066 *R/scrHpd.R
 d3cf0c9abe0bce3586265f7af76d575e *R/summary.BayesMfp.R
 b2c58f9643ae6527c311f91a80b04b5d *R/summary.BmaSamples.R
 b402746aa9398939d78e381a00113770 *R/transformMfp.R
-3a3b7db1436d948095424733d23cad85 *build/partial.rdb
-46a8a934cee8a8acc6182c20b6dd2cf4 *data/ozone.RData
+cc0beb6b2571732ec6920fcbd2788e92 *data/ozone.RData
 9df4179c9e33189a47e3a99c2331752d *demo/00Index
-99db10ee57747dc7b3a611e78b57a76e *demo/ozone.R
+597488afb5b7ee1d8a3be5df6d010722 *demo/ozone.R
 52b5355d43e7d431929d3b8c0228892b *inst/CITATION
 5aaab0656c910503c60ef8bab8e5254b *inst/examples/simulation.R
 07d67fbfc5f831cbe6ae642e2b1219fe *man/BayesMfp.Rd
@@ -45,7 +44,7 @@ b1986ea5ec117bef7e951032767de239 *man/as.data.frame.BayesMfp.Rd
 996a02044d676c4b3ec635fac79c977e *man/constructNewdataMatrix.Rd
 acdee64767add8a66865d38bb9c78977 *man/empiricalHpd.Rd
 06858317760904bbb126f1cac07efe4a *man/findModel.Rd
-5155d54880b88f1149232a09c13917ba *man/fpScale.Rd
+2e0151232590f6f7a58d3c7ad5cee92a *man/fpScale.Rd
 d35196bdc4c9e08ad1204ad69d9e2d1b *man/getDesignMatrix.Rd
 17bbd4ca8f6ffb352282f9b07937f102 *man/getFpTransforms.Rd
 264f41f6a7671ae3247a91cfe6549f99 *man/getLogMargLik.Rd
@@ -61,7 +60,7 @@ ee08595f9cda4a9bb8806de0e512409d *man/predict.BayesMfp.Rd
 b8aeb3d2dda2a118c2a74029eedeb248 *man/predict.BmaSamples.Rd
 311efc420ab5de1c10622e12f9e61b76 *man/rmvt.Rd
 cf14454813ec5960aca309f5685c1d8f *man/rshrinkage.Rd
-f80109b7ead8ec9015e59219342de0cd *man/scrBesag.Rd
+c784ee40e9eb271b8cbe64c2ef9d079c *man/scrBesag.Rd
 eed2cc06e0af75d36fa9f870b5ad73cb *man/scrHpd.Rd
 93d20c271fc53ca02dc2ec13bc2c66a9 *man/summary.BayesMfp.Rd
 334df8912061cd6b36c460753d817039 *man/summary.BmaSamples.Rd
