@@ -1,5 +1,5 @@
-75694d550a0768abd471c04fb790c60f *ChangeLog
-dcc583140c8e7e2d9e7afc5d8678a284 *DESCRIPTION
+3fe223c6cf3a8252efc1fdb2abbf0164 *ChangeLog
+7b61b137bb169133cfe17e85ec357b03 *DESCRIPTION
 eb93f50ab6245a8732dfbefd74a98149 *NAMESPACE
 3a521832a87f7f20b8cda3b426c73cb4 *R/BayesMfp.R
 1fed2cad3b0faab4321bd318b396f21c *R/BayesMfpMethods.R
@@ -29,7 +29,7 @@ d38a59fb51588da6c1f810db9d722066 *R/scrHpd.R
 d3cf0c9abe0bce3586265f7af76d575e *R/summary.BayesMfp.R
 b2c58f9643ae6527c311f91a80b04b5d *R/summary.BmaSamples.R
 b402746aa9398939d78e381a00113770 *R/transformMfp.R
-cc0beb6b2571732ec6920fcbd2788e92 *data/ozone.RData
+499e58087cecb95dd3d27df5d6010402 *data/ozone.RData
 9df4179c9e33189a47e3a99c2331752d *demo/00Index
 597488afb5b7ee1d8a3be5df6d010722 *demo/ozone.R
 52b5355d43e7d431929d3b8c0228892b *inst/CITATION
@@ -81,7 +81,7 @@ b9fcfb986419ea58518e55ce38583b1e *src/hyperg.cpp
 3ffbf127aa7fb09d02d5e0d9ded97b5f *src/hyperg.h
 a05581bc895b5f7c816d6abeff5815f2 *src/mconf.h
 e2603eb2118076e482c920cdbc68781f *src/mtherr.c
-0f7daf44c2a03a318a46f08f3de7957c *src/mytypes.h
+bd14966b64fe9d92c6e2b53dca491918 *src/mytypes.h
 b714d0e39fa7495517211648e6dc13fd *src/newmat/Makefile
 1feab2cfad34eed78acb4a47cd7f232a *src/newmat/bandmat.cpp
 fe2c0f80087e4dc9b45dd0bde5d5add9 *src/newmat/cholesky.cpp
