@@ -1,5 +1,5 @@
-cf6bd29ee259f6de8417ba0f719bb000 *ChangeLog
-fe428aa07d89bc2ed883b763626db15c *DESCRIPTION
+5e58066b5a571b4b58821603ffdb5799 *ChangeLog
+39396aa3c31f1c30217e8261ccc425d9 *DESCRIPTION
 eb93f50ab6245a8732dfbefd74a98149 *NAMESPACE
 3a521832a87f7f20b8cda3b426c73cb4 *R/BayesMfp.R
 1fed2cad3b0faab4321bd318b396f21c *R/BayesMfpMethods.R
@@ -32,7 +32,7 @@ b402746aa9398939d78e381a00113770 *R/transformMfp.R
 cc0beb6b2571732ec6920fcbd2788e92 *data/ozone.RData
 9df4179c9e33189a47e3a99c2331752d *demo/00Index
 597488afb5b7ee1d8a3be5df6d010722 *demo/ozone.R
-52b5355d43e7d431929d3b8c0228892b *inst/CITATION
+77a103ba13cd5373f3ddf7bd51d83eb8 *inst/CITATION
 5aaab0656c910503c60ef8bab8e5254b *inst/examples/simulation.R
 07d67fbfc5f831cbe6ae642e2b1219fe *man/BayesMfp.Rd
 6bdea1c066d62984cc07e7406555152a *man/BayesMfpMethods.Rd
@@ -46,7 +46,7 @@ acdee64767add8a66865d38bb9c78977 *man/empiricalHpd.Rd
 06858317760904bbb126f1cac07efe4a *man/findModel.Rd
 2e0151232590f6f7a58d3c7ad5cee92a *man/fpScale.Rd
 d35196bdc4c9e08ad1204ad69d9e2d1b *man/getDesignMatrix.Rd
-17bbd4ca8f6ffb352282f9b07937f102 *man/getFpTransforms.Rd
+dee9f40335cb91a1391b764941cfbadd *man/getFpTransforms.Rd
 264f41f6a7671ae3247a91cfe6549f99 *man/getLogMargLik.Rd
 b8b129360ef5902df48d36c9f24d9e1f *man/getLogPrior.Rd
 09a75b42dcf9cd0c0f5a4364caa9567d *man/getPostExpectedgAndShrinkage.Rd
@@ -55,7 +55,7 @@ a443681c53b7ba63a94a8cb0db314ce5 *man/inclusionProbs.Rd
 a469c48d8720b6d6696b9e5af0ee58ea *man/invGamma.Rd
 e90ef2af6c547ebe3329510edb745512 *man/ozone.Rd
 cf8d08159d4797d9e5c4c267c5dbff94 *man/plotCurveEstimate.Rd
-064f1f2f46412d9fd0583acbdbf9615f *man/posteriors.Rd
+4b64221123dd079800768fda68dd000c *man/posteriors.Rd
 ee08595f9cda4a9bb8806de0e512409d *man/predict.BayesMfp.Rd
 b8aeb3d2dda2a118c2a74029eedeb248 *man/predict.BmaSamples.Rd
 311efc420ab5de1c10622e12f9e61b76 *man/rmvt.Rd
@@ -65,10 +65,10 @@ c784ee40e9eb271b8cbe64c2ef9d079c *man/scrBesag.Rd
 93d20c271fc53ca02dc2ec13bc2c66a9 *man/summary.BayesMfp.Rd
 334df8912061cd6b36c460753d817039 *man/summary.BmaSamples.Rd
 7544ddde2b82ce1d8083fe7ffa1de8e4 *man/transformMfp.Rd
-614253714d1ed06b79ae6590312a4586 *src/Makevars
+98df18a6a87b70ea28271502dac9c56b *src/Makevars
 8767e779f3ef2b17c6c2ce838bcc87f7 *src/RnewMat.cpp
 62ab1b9aae6a2583c03e3414b4e57c03 *src/RnewMat.h
-9907b968bd4e3b15b3593005777ca5d8 *src/bayesMfp.cpp
+e89ca8f2e276b2e7f912d121f6649099 *src/bayesMfp.cpp
 43e8979185ce2385c0bf24e7bae8d56f *src/bfp-win.def
 e21dfb3f5dcbc19be095cffb1e804dc2 *src/combinatorics.cpp
 96dee40a182360f51709b3e9a19ca224 *src/combinatorics.h
