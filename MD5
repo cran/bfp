@@ -1,5 +1,5 @@
-5e58066b5a571b4b58821603ffdb5799 *ChangeLog
-39396aa3c31f1c30217e8261ccc425d9 *DESCRIPTION
+8c56a5d84810584f705a076930898da6 *ChangeLog
+baf9d20ba74ab959ee2a08e6a2be4104 *DESCRIPTION
 eb93f50ab6245a8732dfbefd74a98149 *NAMESPACE
 3a521832a87f7f20b8cda3b426c73cb4 *R/BayesMfp.R
 1fed2cad3b0faab4321bd318b396f21c *R/BayesMfpMethods.R
@@ -60,7 +60,7 @@ ee08595f9cda4a9bb8806de0e512409d *man/predict.BayesMfp.Rd
 b8aeb3d2dda2a118c2a74029eedeb248 *man/predict.BmaSamples.Rd
 311efc420ab5de1c10622e12f9e61b76 *man/rmvt.Rd
 cf14454813ec5960aca309f5685c1d8f *man/rshrinkage.Rd
-c784ee40e9eb271b8cbe64c2ef9d079c *man/scrBesag.Rd
+cb34bb15517f9db22279a87d6ddfba1e *man/scrBesag.Rd
 000c6d98cef9f4a6d2d30aa7d2340e82 *man/scrHpd.Rd
 93d20c271fc53ca02dc2ec13bc2c66a9 *man/summary.BayesMfp.Rd
 334df8912061cd6b36c460753d817039 *man/summary.BmaSamples.Rd
