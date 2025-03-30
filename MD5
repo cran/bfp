@@ -1,5 +1,5 @@
-8c56a5d84810584f705a076930898da6 *ChangeLog
-baf9d20ba74ab959ee2a08e6a2be4104 *DESCRIPTION
+9d7f018d3dcadaaeb7da5bc3edead3ef *ChangeLog
+0f32f15e2b8bd5cf68a875de4570cead *DESCRIPTION
 eb93f50ab6245a8732dfbefd74a98149 *NAMESPACE
 3a521832a87f7f20b8cda3b426c73cb4 *R/BayesMfp.R
 1fed2cad3b0faab4321bd318b396f21c *R/BayesMfpMethods.R
@@ -70,7 +70,7 @@ cb34bb15517f9db22279a87d6ddfba1e *man/scrBesag.Rd
 62ab1b9aae6a2583c03e3414b4e57c03 *src/RnewMat.h
 e89ca8f2e276b2e7f912d121f6649099 *src/bayesMfp.cpp
 43e8979185ce2385c0bf24e7bae8d56f *src/bfp-win.def
-e21dfb3f5dcbc19be095cffb1e804dc2 *src/combinatorics.cpp
+40d9d775956b4ed4ed1653cd44701214 *src/combinatorics.cpp
 96dee40a182360f51709b3e9a19ca224 *src/combinatorics.h
 8deb823bbdfedfc424bb64dd1931dd65 *src/conversions.cpp
 f5b38b8a3e44dcfba5d6e7a07138309d *src/conversions.h
@@ -91,7 +91,7 @@ fe2c0f80087e4dc9b45dd0bde5d5add9 *src/newmat/cholesky.cpp
 8e7021cd6e2eb6d82159234bd7a2bf6d *src/newmat/hholder.cpp
 e1522f382acf81381914a76a40105c7e *src/newmat/include.h
 70b07727334df8e00ed6c1c35e714136 *src/newmat/jacobi.cpp
-72b737034b7fe5a4d863219ffca3dbd3 *src/newmat/myexcept.cpp
+c310b774820646493bd7dbbb0a6d3d25 *src/newmat/myexcept.cpp
 7b90602ead0d84afe1cbbf542c131f68 *src/newmat/myexcept.h
 fc837140049fb503b9bfdc724fafa535 *src/newmat/newfft.cpp
 d641a07ef1715e4ddb40c4e67f1ea1fb *src/newmat/newmat.h
@@ -105,9 +105,9 @@ f4c261a0b7b96bc836d495a9ea1e47df *src/newmat/newmat7.cpp
 f5cf174b7bb71b562124725edb23fb03 *src/newmat/newmat8.cpp
 ced1ed074ddf2eac628e6547bd63a0f2 *src/newmat/newmat9.cpp
 1f7e78f98488b981f3ccd9156d2f8e14 *src/newmat/newmatap.h
-540a120065b6419847a1f17f27c1e449 *src/newmat/newmatex.cpp
+7a5c3e9062bfc101389071fccfbe7bac *src/newmat/newmatex.cpp
 ebfc5a3e2477e4453ace3a6a9792e952 *src/newmat/newmatio.h
-a7853ad43c42ea5637f1551fad457f03 *src/newmat/newmatnl.cpp
+22084517a3e8ea8d151c61e23cb72d7d *src/newmat/newmatnl.cpp
 087ee5ed48b984f939949a8e163ddf4e *src/newmat/newmatnl.h
 105148cc7ad7a1b99f2ee6c5b67cfec5 *src/newmat/newmatrc.h
 eafbd5e3a9751af4ee47edbc6772d822 *src/newmat/newmatrm.cpp
